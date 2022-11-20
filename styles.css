@@ -1,2 +1,9 @@
 
-/* Your CSS Code here. */
+body{
+    margin: 30px;
+    background-color: aqua;
+    color: antiquewhite;
+}
+h1{
+    color:black;
+}
